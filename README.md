@@ -3,7 +3,7 @@
 This is a Node.js project built for the Brainwave internship.
 
 ## 📁 Project Structure
-- `ex.js` – Main backend script
+- `server.js` – Main backend script
 - `public/` – Static frontend files
 - `.gitignore` – Ignored files (e.g., `node_modules/`, `.env`)
 - `package.json` – Project metadata and dependencies
@@ -11,4 +11,4 @@ This is a Node.js project built for the Brainwave internship.
 ## 🚀 How to Run
 ```bash
 npm install
-node ex.js
+node server.js
